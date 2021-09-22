@@ -1,0 +1,11 @@
+github的token：
+	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
+
+
+上传代码到github：
+	cd到文件夹
+	git init
+	git add *
+	git commit -m "描述信息"
+	git remote add origin 链接
+	git push -u origin master然后填写帐号dtjun和token
